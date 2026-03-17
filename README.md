@@ -1,7 +1,7 @@
 # Diabetic Retinopathy Detection using CNN
 
 > **University Applied AI Coursework — 2023/2024**
-> Module: 6COSC020W | Student: Mueed Hussain (w1807821)
+> Module: 6COSC020W | Student: Mueed Hussain
 
 A deep learning project that uses a Convolutional Neural Network (CNN) to classify the severity of **Diabetic Retinopathy (DR)** from retinal fundus images. The model classifies images into 5 severity levels and achieved a test accuracy of **~71.6%**.
 
@@ -158,7 +158,6 @@ print(f"Predicted class: {classes[np.argmax(prediction)]}")
 - **University:** University of Westminster
 - **Module:** 6COSC020W — Applied Artificial Intelligence
 - **Academic Year:** 2023/2024
-- **Student ID:** w1807821
 
 ---
 
