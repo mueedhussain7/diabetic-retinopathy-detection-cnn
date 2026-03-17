@@ -1,0 +1,32 @@
+# Dataset images (too large for GitHub - download from Kaggle)
+archive/colored_images/
+train/
+validation/
+test/
+DR Images Dataset/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.env
+venv/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Model weights (large binary - use Git LFS if you want to include it)
+# Uncomment the line below to exclude the model file too:
+# diabetic_retinopathy_model.h5
+
+# Temp files
+~$*
